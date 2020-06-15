@@ -489,7 +489,7 @@ body {
 }
 
 .form__logo {
-    background: url(../image/Logo1.png) no-repeat;
+    background: url(../image/logo1.png) no-repeat;
     height: 85px;
     width: 94px;
     margin: 0 auto;
@@ -554,10 +554,6 @@ body {
     line-height: 24px;
     border: none;
     cursor: pointer;
-}
-
-.form__sent-block button:hover {
-    
 }
 
 .footer {
